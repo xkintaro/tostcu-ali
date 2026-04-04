@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="md/logo.png" width="120" height="120" />
-  <br />
-
-</div>
-
----
-
 ## 📷 Demo Link
 
 - [GitHub Pages](https://xkintaro.github.io/tostcu-ali/)
